@@ -1,2 +1,2 @@
-# funny_password_creator
-Funny Password Creator
+# heroku-flask-base-template
+Heroku Flask Base Template
